@@ -36,7 +36,6 @@ See [the dataset notes](data/raw/DATASET_README.md) and [data dictionary](data/r
 │   └── 04_anomaly_detection.ipynb
 ├── .gitignore
 ├── LICENSE
-├── PROJECT_SPEC.md
 ├── README.md
 └── requirements.txt
 ```
