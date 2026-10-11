@@ -197,9 +197,9 @@ Dependency ranges are defined in [`requirements.txt`](requirements.txt).
 
 Python 3.11 is recommended.
 
+Clone or download the repository, open a terminal in its root directory, and create a virtual environment:
+
 ```bash
-git clone <repository-url>
-cd Funnel
 python -m venv .venv
 ```
 

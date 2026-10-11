@@ -1,6 +1,7 @@
 # Data Dictionary
 
 ## events.csv
+
 - `event_id`: unique event identifier.
 - `user_id`: synthetic user identifier.
 - `session_id`: session identifier linking events and session metadata.
@@ -17,6 +18,7 @@
 - `acquisition_channel`: synthetic acquisition channel.
 
 ## sessions.csv
+
 - `session_id`, `user_id`: identifiers.
 - `scenario`: simulator scenario class (`typical`, friction subtypes, or suspicious-pattern subtypes).
 - `ground_truth_friction`: 1 for injected friction scenarios.
